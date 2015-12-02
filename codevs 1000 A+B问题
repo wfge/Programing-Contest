@@ -1,0 +1,13 @@
+Enter file contents here
+/*
+codevs 1000 A+B问题
+基本输入输出
+*/
+#include <stdio>
+int main()
+{
+   int a,b;
+   scanf("%d%d",&a,&b);
+   printf("%d\n",a+b);
+   return 0;
+}
